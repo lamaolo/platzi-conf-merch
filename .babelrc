@@ -1,0 +1,8 @@
+{
+  "presets": [
+    // este preset compila Ecmascript 6+ a ecmascript 2015
+    "@babel/preset-env",
+    // este preset compiula jsx y js
+    "@babel/preset-react"
+  ]
+}
